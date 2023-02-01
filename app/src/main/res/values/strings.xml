@@ -1,3 +1,6 @@
 <resources>
+    //Palabras y frases
     <string name="app_name">Book App Kotlin</string>
+    <string name="book_app">Book App</string>
+    //Descripciones de contenido
 </resources>
