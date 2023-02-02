@@ -1,6 +1,10 @@
 <resources>
-    //Palabras y frases
-    <string name="app_name">Book App Kotlin</string>
-    <string name="book_app">Book App</string>
+    //Palabras,frases y oraciones
+    <string name="app_name">Book App Kotlin</string> //Nombre de la aplicacion largo
+    <string name="book_app">Book App</string> //Nombre de la aplicación corto
+    <string name="main_welcome">Welcome to Book App</string> //Bienvenida en el Main Screen
+    <string name="login_string">Login</string> //Palabra que va en el boton de login
+    <string name="nlogin_string">Continue without Login</string> //Frase que va en el boton de nlogin
     //Descripciones de contenido
+
 </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"> <!-- Forma de la figura -->
+
+    <!-- Color de la figura -->
+    <solid android:color="@color/purple_500"/>
+
+    <!-- Esquinas redondas de la figura -->
+    <corners android:radius="10dp"/>
+
+</shape>
