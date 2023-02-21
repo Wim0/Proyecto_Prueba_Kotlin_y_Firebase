@@ -2,4 +2,4 @@
 Primer proyecto creado utilizando Kotlin y Firebase
 
 Día 4
-Actualizado: 09/02/2024
+Actualizado: 21/02/2024
